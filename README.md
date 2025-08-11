@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/areebah-mazhar/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
 </a>
-<a href="mailto:areebahmazhar.am@gmail.com">
+<a href="mailto:aribamazhar.am@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" alt="Email" />
 </a>
 </p>
