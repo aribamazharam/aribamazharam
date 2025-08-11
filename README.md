@@ -1,7 +1,7 @@
 # Welcome to My GitHub!
  
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID?v=4" height="100" alt="Profile Picture" />
+<img src="https://avatars.githubusercontent.com/u/139103685?s=400&u=6b55fd67132d54d916eccdf2d94c40294d9bbfb5&v=4" height="100" alt="Profile Picture" />
 </p>
  
 <p align="center">
